@@ -8,10 +8,13 @@
 
 ### CHANGES:
 - SMXcore has been updated for v1.0.
+- Removed redundant assets.
+- Updated all the assets for the skill window.
 
-### CHANGES:
+### FIXES:
 
 ### UPDATES:
 - Updated to Quartz v3.0.0.
 
 ### WORK IN PROGRESS:
+- Currently modding: Updating//improving assets.
