@@ -1,0 +1,2 @@
+# smxcorechangelog
+Changelogs for SMXcore
