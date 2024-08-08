@@ -7,11 +7,13 @@
 `Branch: Current Development - Released: UPCOMING`
 
 ### CHANGES:
+- Added assets for use with Gears.
+- Added a Gears setting to turn ON/OFF the News Screen.
 
 ### FIXES:
 
 ### UPDATES:
-
+- Updated to Quartz v3.0.0.
 
 ### WORK IN PROGRESS:
 - Currently modding: Updating//improving assets.
@@ -29,5 +31,5 @@
 ### FIXES:
 
 ### UPDATES:
-- Updated to Quartz v3.0.0.
+- Updated to Quartz v3.0.0e.
 
