@@ -33,8 +33,6 @@
 
 ### UPDATES:
 
-### WORK IN PROGRESS:
-
 
 ---
 
@@ -50,9 +48,6 @@
 
 ### UPDATES:
 
-### WORK IN PROGRESS:
-- Currently modding: Updating/improving assets.
-
 
 ---
 
@@ -67,9 +62,6 @@
 - Fixed an issue with conditionals that prevented Gears to work if SMXmenu was not installed.
 
 ### UPDATES:
-
-### WORK IN PROGRESS:
-- Currently modding: Updating/improving assets.
 
 
 ---
