@@ -2,7 +2,7 @@
   <img src="https://7dtd-community.s3.us-east-2.amazonaws.com/monthly_2022_01/a20_banner_forum.png.35ab78c870a912989f716f892c664a60.png" width="1080" title="SMX">
 </p>
 
-## **v1.1.14.2**
+## **v1.2.27.2**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -14,6 +14,26 @@
 
 ### WORK IN PROGRESS:
 - Currently modding: Updating/improving assets.
+
+
+---
+
+
+## **v1.2.27.1**
+
+`Branch: Stable Release - Released: 16.12.2024`
+
+### CHANGES:
+- Added new code for SMXhud to fix issues with v1.2b27.
+- Added new code for SMXmenu to fix issues with v1.2b27.
+- Added new code for SMXui to fix issues with v1.2b27.
+
+### FIXES:
+- Hopefully fixed some localization issues.
+
+### UPDATES:
+
+### WORK IN PROGRESS:
 
 
 ---
