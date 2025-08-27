@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://7dtd-community.s3.us-east-2.amazonaws.com/monthly_2022_01/a20_banner_forum.png.35ab78c870a912989f716f892c664a60.png" width="1080" title="SMX">
+  <img src="https://i.imgur.com/IdwmiO7.png" width="1080" title="SMX">
 </p>
 
-## **v1.2.27.2**
+## **v2.2.3.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -18,6 +18,19 @@
 
 ---
 
+
+## **v2.2.3.0**
+
+`Branch: Stable Release - Released: 27.08.2025`
+
+### CHANGES:
+- Added an option to enable features from the current experimental. (Requires Gears)
+  
+### FIXES:
+
+### UPDATES:
+
+---
 
 ## **v1.2.27.1**
 
