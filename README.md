@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/IdwmiO7.png" width="1080" title="SMX">
 </p>
 
-## **v2.5.23.1**
+## **v2.5.23.2**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -14,6 +14,21 @@
 
 ### WORK IN PROGRESS:
 - Currently modding: Updating/improving assets.
+
+
+---
+
+
+## **v2.5.23.1**
+
+`Branch: Stable Release - Released: 14.01.2026`
+
+### CHANGES:
+
+### FIXES:
+- Fixed a bug in the inventory that lead to only showing 30 slots on vanilla settings.
+  
+### UPDATES:
 
 
 ---
