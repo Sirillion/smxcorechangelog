@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/IdwmiO7.png" width="1080" title="SMX">
 </p>
 
-## **v2.5.23.2**
+## **v2.5.27.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -15,6 +15,21 @@
 ### WORK IN PROGRESS:
 - Currently modding: Updating/improving assets.
 
+
+---
+
+
+## **v2.5.27.0**
+
+`Branch: Stable Release - Released: 25.01.2026`
+
+### CHANGES:
+- Added a lot of new icons for the vehicle and assembly stat panels and iteminfo window.
+
+### FIXES:
+
+### UPDATES:
+- Some asset touch ups.
 
 ---
 
