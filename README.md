@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/IdwmiO7.png" width="1080" title="SMX">
 </p>
 
-## **v2.5.27.1**
+## **v2.6.14.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -19,6 +19,21 @@
 ---
 
 
+## **v2.6.14.0**
+
+`Branch: Current Development - Released: 20.04.2026`
+
+### CHANGES:
+- Some core code fixes for SMXhud and SMXmenu.
+  
+### FIXES:
+
+### UPDATES:
+
+
+---
+
+
 ## **v2.5.27.0**
 
 `Branch: Stable Release - Released: 25.01.2026`
@@ -30,6 +45,7 @@
 
 ### UPDATES:
 - Some asset touch ups.
+
 
 ---
 
@@ -75,7 +91,9 @@
 
 ### UPDATES:
 
+
 ---
+
 
 ## **v1.2.27.1**
 
